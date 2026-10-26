@@ -1,6 +1,6 @@
 ### Hi, I'm Phil
 
-I'm Director of Architecture at Veterans United Home Loans, where I've spent 15 years going from web developer to leading a 15-person architecture group. I still write code.
+I'm Director of Architecture at Veterans United Home Loans, where I've spent 15 years going from web developer to leading a 15-person architecture group. I am and always will be a software engineer. 
 
 - **Building:** Claude Code plugins and skills that give engineering teams shared context for operations, service design, and backlog work
 - **Stack:** C#/.NET, TypeScript/Angular, Kubernetes, Kafka, Terraform
